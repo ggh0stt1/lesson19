@@ -1,0 +1,18 @@
+button { 
+    padding: 10px; 
+    border: none; 
+    border-radius: 5px; 
+    color: white; 
+    }
+    
+#first { 
+    background-color: blue; 
+    }
+    
+#second { 
+    background-color: green; 
+    } 
+
+#third { 
+    background-color: red; 
+    }
